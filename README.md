@@ -2,20 +2,29 @@
 A raytraycer that also can render halos and rainbows
 
 Controls:
+
 WASD to move, mouse to look around
+
 Space/LShift - move up/down
+
 F5 - screenshot (a screenshot is done automatically every 5 minutes)
 
 
 Arrows:
+
 up/down - aperture
+
 left/right - focus
 
 
 F/R - FOV
+
 G/T - exposure
+
 H/Y - white
+
 Delete - focus on origin (0,0,0)
+
 Mouse left - reset render progress
 
 
